@@ -1,6 +1,5 @@
 <!-- ### Hi there I am Rajendra 👋 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi I am Rajendra!;I study Software Engineering )](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Rajendra+Brahmbhatt;I+Study+Software+Engineering)](https://git.io/typing-svg)
 <!--
 **Rajendra1308/Rajendra1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
